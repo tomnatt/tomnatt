@@ -1,0 +1,49 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "_settings.scss";
+
+// Behold, here are all the Foundation components.
+@import "../_foundation/scss/foundation/components/_grid.scss";
+@import "../_foundation/scss/foundation/components/_accordion.scss";
+@import "../_foundation/scss/foundation/components/_alert-boxes.scss";
+@import "../_foundation/scss/foundation/components/_block-grid.scss";
+@import "../_foundation/scss/foundation/components/_breadcrumbs.scss";
+@import "../_foundation/scss/foundation/components/_button-groups.scss";
+@import "../_foundation/scss/foundation/components/_buttons.scss";
+@import "../_foundation/scss/foundation/components/_clearing.scss";
+@import "../_foundation/scss/foundation/components/_dropdown.scss";
+@import "../_foundation/scss/foundation/components/_dropdown-buttons.scss";
+@import "../_foundation/scss/foundation/components/_flex-video.scss";
+@import "../_foundation/scss/foundation/components/_forms.scss";
+@import "../_foundation/scss/foundation/components/_icon-bar.scss";
+@import "../_foundation/scss/foundation/components/_inline-lists.scss";
+@import "../_foundation/scss/foundation/components/_joyride.scss";
+@import "../_foundation/scss/foundation/components/_keystrokes.scss";
+@import "../_foundation/scss/foundation/components/_labels.scss";
+@import "../_foundation/scss/foundation/components/_magellan.scss";
+@import "../_foundation/scss/foundation/components/_orbit.scss";
+@import "../_foundation/scss/foundation/components/_pagination.scss";
+@import "../_foundation/scss/foundation/components/_panels.scss";
+@import "../_foundation/scss/foundation/components/_pricing-tables.scss";
+@import "../_foundation/scss/foundation/components/_progress-bars.scss";
+@import "../_foundation/scss/foundation/components/_range-slider.scss";
+@import "../_foundation/scss/foundation/components/_reveal.scss";
+@import "../_foundation/scss/foundation/components/_side-nav.scss";
+@import "../_foundation/scss/foundation/components/_split-buttons.scss";
+@import "../_foundation/scss/foundation/components/_sub-nav.scss";
+@import "../_foundation/scss/foundation/components/_switches.scss";
+@import "../_foundation/scss/foundation/components/_tables.scss";
+@import "../_foundation/scss/foundation/components/_tabs.scss";
+@import "../_foundation/scss/foundation/components/_thumbs.scss";
+@import "../_foundation/scss/foundation/components/_tooltips.scss";
+@import "../_foundation/scss/foundation/components/_top-bar.scss";
+@import "../_foundation/scss/foundation/components/_type.scss";
+@import "../_foundation/scss/foundation/components/_offcanvas.scss";
+@import "../_foundation/scss/foundation/components/_visibility.scss";
+
+.row h1 {
+    color: red;
+}

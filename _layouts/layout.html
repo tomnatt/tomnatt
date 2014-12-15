@@ -3,24 +3,28 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta name="keywords" content="tom natt"/>
-    <meta name="description" content="homepage of Tom Natt's site"/>
+    <meta name="description" content="{{ page.description }}"/>
     <title>{{ page.title }}</title>
     <meta charset="UTF-8">
-    <link rel="stylesheet" media="screen" type="text/css" href="/css/style.css" title="Default" />
+    <link rel="stylesheet" media="screen" type="text/css" href="/css/tomnatt.css" title="Default" />
+    <link rel="alternate" type="application/atom+xml" title="Tom's Blog" href="http://tomnatt.blogspot.com/feeds/posts/default" />
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-1800685-2']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
 </head>
 <body>
 
-    <header class="row">
-        <h1>This is the title</h1>
-    </header>
-
-    <div class="row">
+    <div class="content">
         {{ content }}
     </div>
-
-    <footer class="row">
-        <h6>And a little footer</h6>
-    </footer>
 
 </body>
 </html>

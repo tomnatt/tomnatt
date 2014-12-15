@@ -5,7 +5,7 @@ description: Introduction of Emily in the King Arthur game
 keywords: short story
 ---
 
-## Emily and the knights
+### Emily and the knights
 
 "You have a proposition for us?"
 

@@ -5,7 +5,7 @@ description: Launching Captain West's boat
 keywords: short story
 ---
 
-## The Launching of the _Distant Voyager_
+### The Launching of the _Distant Voyager_
 
 There was no almost no sound; just the gentle murmur of the wind through the trees and the lapping of the tiny waves of Elevenmile Canyon Reservoir rolling up the shore and onto the jetty at the tiny ranger station. The sun shone down, warming the area and lending a sleepy quality to the day. It was a lovely summer's afternoon.
 

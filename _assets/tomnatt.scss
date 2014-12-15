@@ -6,53 +6,59 @@
 @import url(http://fonts.googleapis.com/css?family=Oldenburg);
 @import url(http://fonts.googleapis.com/css?family=Ribeye+Marrow);
 
-
 body {
-    color: #383838;
-    font-family: ‘Arial Black’, Gadget, sans-serif;
-    font-size: 20px;
-    background: url("/images/backgrounds/natural_paper/natural_paper.png") repeat scroll 0 0 #C2C2A3;
+  color: #383838;
+  font-family: ‘Arial Black’, Gadget, sans-serif;
+  font-size: 20px;
+  background: url("/images/backgrounds/natural_paper/natural_paper.png") repeat scroll 0 0 #C2C2A3;
 }
 
-.content, .pagecontent {
-    margin: 10px auto;
-    width: 50%;
+.content {
+  margin: 10px auto;
+  width: 50%;
 }
 
-.content h1, .content h2 {
-    color: black;
-    font-family: 'Ribeye Marrow', cursive;
-    font-size: 28px;
-    width:300px;
-    transform:rotate(-30deg) translate(-65px, -40px);
-    -ms-transform:rotate(-30deg) translate(-65px, -40px);
-    -moz-transform:rotate(-30deg) translate(-65px, -40px);
-    -webkit-transform:rotate(-30deg) translate(-65px, -40px);
-    -o-transform:rotate(-30deg) translate(-65px, -40px);
+h1, h2 {
+  color: black;
+  font-family: 'Ribeye Marrow', cursive;
+  font-size: 28px;
+  width: 300px;
+  transform:rotate(-30deg) translate(-65px, -40px);
+  -ms-transform:rotate(-30deg) translate(-65px, -40px);
+  -moz-transform:rotate(-30deg) translate(-65px, -40px);
+  -webkit-transform:rotate(-30deg) translate(-65px, -40px);
+  -o-transform:rotate(-30deg) translate(-65px, -40px);
+}
+
+h3 {
+  color: black;
+  font-family: 'Ribeye Marrow', cursive;
+  font-size: 28px;
 }
 
 ul {
-    padding-bottom: 20px;
-}
+  padding-bottom: 20px;
 
-ul li {
+  li {
     list-style: none;
     padding: 3px 15px;
     font-family: 'Oldenburg', cursive;
-}
 
-ul li a {
-    border: transparent 1px solid;
-    border-radius: 3px;
-    color: #9a3521;
-    padding: 0 4px 0 2px;
-    text-decoration: none;
-    transition-property: background-color, border;
-    transition-duration: 0.3s, 0.3s;
-    -webkit-transition-property: background-color, border;
-    -webkit-transition-duration: 0.3s, 0.3s;
-}
-ul li a:hover {
-    background-color: #ffefd2;
-    border: #9a3521 1px solid;
+    a {
+      border: transparent 1px solid;
+      border-radius: 3px;
+      color: #9a3521;
+      padding: 0 4px 0 2px;
+      text-decoration: none;
+      transition-property: background-color, border;
+      transition-duration: 0.3s, 0.3s;
+      -webkit-transition-property: background-color, border;
+      -webkit-transition-duration: 0.3s, 0.3s;
+
+      &:hover {
+        background-color: #ffefd2;
+        border: #9a3521 1px solid;
+      }
+    }
+  }
 }

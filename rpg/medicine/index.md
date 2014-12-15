@@ -5,7 +5,7 @@ description: Dr West teaching medicine at the Alpha Site
 keywords: short story
 ---
 
-## Teaching Medicine at the Alpha Site
+### Teaching Medicine at the Alpha Site
 
 "Ok, I'm going to hold this open. I want you to get in there and make a small incision." West twisted his wrists, increasing size of the small hole. The pretty blonde woman beside him lent in, lines of concentration etched across her face.
 

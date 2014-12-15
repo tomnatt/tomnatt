@@ -18,7 +18,7 @@ keywords: homepage
 ## Stuff I wrote
 
 * [Faelon](https://wiki.bath.ac.uk/display/faelon/) - a D&amp;D setting
-* [The Launching of the <i>Distant Voyager</i>](/rpg/boatlaunch.php) - short story from our Stargate campaign
+* [The Launching of the <i>Distant Voyager</i>](/rpg/boatlaunch) - short story from our Stargate campaign
 * [Medicine at the Alpha Site](/rpg/medicine) - another short story from the Stargate campaign
 * [Emily and the Knights](/rpg/emily) - introduction of a D&amp;D character
 * [The Wheel of Kirsty](http://www.thefreekhouse.com/rpg/wheelofkirsty/) - D&amp;D campaign write-up

@@ -38,14 +38,14 @@ task :deploy do
 
   deploy do
     invoke :'git:clone'
-    # invoke :submodules
     invoke :'deploy:link_shared_paths'
     invoke :'bundle:install'
-    # build
-    invoke :jekyll
     # cleanup
     invoke :'deploy:cleanup'
   end
+
+  # build
+  invoke :jekyll
 end
 
 desc "Syncs the audio with the server"
@@ -59,10 +59,4 @@ desc "Rebuild site"
 task :jekyll do
   queue "cd #{deploy_to}/current"
   queue 'rake'
-end
-
-task :submodules do
-  queue "release/#{version}"
-  queue "git submodule init"
-  queue "git submodule update"
 end

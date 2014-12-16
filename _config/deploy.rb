@@ -38,7 +38,7 @@ task :deploy do
 
   deploy do
     invoke :'git:clone'
-    invoke :submodules
+    # invoke :submodules
     invoke :'deploy:link_shared_paths'
     invoke :'bundle:install'
     # build

@@ -1,0 +1,6 @@
+[submodule "rpg/l5r/names"]
+	path = rpg/l5r/names
+	url = git@github.com:tomnatt/L5R-name-generator.git
+[submodule "rpg/l5r/dice"]
+	path = rpg/l5r/dice
+	url = git@github.com:tomnatt/L5R-dice-roller.git

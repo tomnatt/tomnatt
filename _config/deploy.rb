@@ -34,7 +34,7 @@ end
 desc "Deploys the current version to the server."
 task :deploy do
   # sync the audio to the server
-  # invoke :audio
+  invoke :audio
 
   deploy do
     invoke :'git:clone'

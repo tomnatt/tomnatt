@@ -21,10 +21,11 @@ keywords: homepage
 
 ## Stuff I wrote
 
-* [Faelon](https://wiki.bath.ac.uk/display/faelon/) - a D&amp;D setting
+* [Faelon](https://wiki.bath.ac.uk/display/faelon/) - a D&D setting
 * [L5R toys](/rpg/l5r) - name generator and dice statistic generator for Legend of the Five Rings
+* [Becoming](/rpg/shell) - short story introducing a D&D character
 * [The Launching of the <i>Distant Voyager</i>](/rpg/boatlaunch) - short story from our Stargate campaign
 * [Medicine at the Alpha Site](/rpg/medicine) - another short story from the Stargate campaign
-* [Emily and the Knights](/rpg/emily) - introduction of a D&amp;D character
+* [Emily and the Knights](/rpg/emily) - introduction of a D&D character
 * [The Little Book of Grudges](http://littlebookofgrudges.blogspot.co.uk/) - a series of Warhammer games written into a continuous narrative
-* [The Wheel of Kirsty](http://www.thefreekhouse.com/rpg/wheelofkirsty/) - D&amp;D campaign write-up
+* [The Wheel of Kirsty](http://www.thefreekhouse.com/rpg/wheelofkirsty/) - D&D campaign write-up

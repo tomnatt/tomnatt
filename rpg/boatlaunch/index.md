@@ -9,7 +9,7 @@ keywords: short story
 
 There was no almost no sound; just the gentle murmur of the wind through the trees and the lapping of the tiny waves of Elevenmile Canyon Reservoir rolling up the shore and onto the jetty at the tiny ranger station. The sun shone down, warming the area and lending a sleepy quality to the day. It was a lovely summer's afternoon.
 
-On the jetty stood four people – two men, one woman and a girl. One of the men had his arm around the woman. He gazed out across the lake, watching the ripples, absorbing the sun. The other man – a tall, heavily built black man with a close shaven head and a large black tattoo of a hawk on his forehead - was more interested in the temporary construction beside them - a makeshift drydock complete with launching ramp. Atop the ramp sat an elderly, but immaculately kept yacht with the words _Distant Voyager_ emblazoned along its side. He turned, and walked with slow, measured steps along the side of the boat, hands clasped behind his back. As he went he regarded the old wooden hull with some suspicion.
+On the jetty stood four people – two men, one woman and a girl, one of the men with his arm around the woman. He gazed out across the lake, watching the ripples, absorbing the sun. The other man – a tall, heavily built black man with a close shaven head and a large black tattoo of a hawk on his forehead – was more interested in the temporary construction beside them, a makeshift drydock complete with launching ramp. Atop the ramp sat an elderly but immaculately kept yacht with the words _Distant Voyager_ emblazoned along its side. He turned, and walked with slow, measured steps along the side of the boat, hands clasped behind his back. As he went he regarded the old wooden hull with some suspicion.
 
 "Captain West. Are you not confident in this vessel's ability to remain afloat?"
 
@@ -37,7 +37,7 @@ West glared at him and looked down at Cassandra. "Pull the lever."
 
 There was a low rumble as the yacht slowly descended the ramp and a great splash as it slid into the water. Cassandra stepped to the water's edge, waved her hand dramatically and intoned "I declare this boat ... launched!" There were a few moments of frantic activity as West moved around the yacht ensuring it had made it into the water safely, and then he dropped the anchor. "Come on over!" he called to the shore. The other three jumped into a small rowing boat, Amo'c paddled them over and West helped them aboard.
 
-On deck, Amo'c looked around. "It seems I was wrong, West. This vessel is indeed lakeworthy." West nodded. "Yes, this vessel has been in my family for a long time. It was passed to me by my uncle when I received the Air Force Cross. I think he approved of that."
+On deck, Amo'c looked around. "It seems I was wrong, West. This vessel is indeed lakeworthy." West nodded. "Yes, she has been in my family for a long time. It was passed to me by my uncle when I received the Air Force Cross. I think he approved of that."
 
 "Your uncle was a man of note then?"
 
@@ -45,7 +45,7 @@ West nodded and turned to retie a rope. Fraiser walked across the deck and looke
 
 Amo'c was saved from answering by West. "Who wants a tour?" "I do!" Cassie ran over and West took her hand and led her down some narrow stairs into the lower parts of the yacht. Fraiser and Amo'c followed; the latter bending low to fit through the passage. Below they heard Cassandra's exclamation of surprise and delight. "Wow! I didn't know you could decorate like this! Mum, come and look!"
 
-Fraiser descended into the central living area and stood, astonished as she found herself in a large, open room. Clearly several of the rooms had been combined to create this open area. The entire room was filled with exotic houseplants – hundreds of them, displaying thousands of colours. In the centre was a small seating area decorated with dozens of bonsai trees. West stood there whilst Cassandra moved around looking at the various plants.
+Fraiser descended into the central living area and stood, astonished as she found herself in a large, open room. Clearly several of the rooms had been combined to create this open area. The entire space was filled with exotic houseplants – hundreds of them, displaying thousands of colours. In the centre was a small seating area decorated with dozens of bonsai trees. West stood there whilst Cassandra moved around looking at the various plants.
 
 West grinned. "Yes, I had a couple of modifications made to the inside rooms. I don't really intend to be playing host to nearly a dozen people." Fraiser moved in and gently touched a plant – a big red thing she had never seen before with giant leaves. "I've never seen anything quite like this."
 
@@ -84,5 +84,3 @@ Amo'c turned back to face the lake. "I see. You are _kalah-tah_."
 "What does that..." Fraiser began, but West interrupted her "No, that is not the case." Fraiser turned a questioning look on West, who winced. "He's just exercising that jaffa wit." He turned back to Amo'c. "Please stop trying to be helpful."
 
 Amo'c closed his eyes and leaned back in the sun, a ghost of a smile playing over his lips. "Indeed."
-
-</div>

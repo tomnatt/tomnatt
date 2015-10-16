@@ -36,13 +36,13 @@ The flap of the medical tent burst open and a figure in a white labcoat hurried 
 
 "Brickman? If he knew there was a fight going on he'd be organising the betting."
 
-West grimaced and released the flaps. The synthesised skin fell back into place. "Never a dull moment. Dr Voss, if you could have the techs deal with this dummy, we'll pick this up again later." Fraiser coughed and gave him a meaningful look. "I mean tomorrow." West continued smoothly. "Now, if you'll excuse me I have a problem to sort out."
+West grimaced and released the flaps. The synthesised skin fell back into place. "Never a dull moment. Dr Voss, please have the techs deal with this dummy. We'll pick this up again later." Fraiser coughed and gave him a meaningful look. "I mean tomorrow." West continued smoothly. "Now, if you'll excuse me I have a problem to sort out."
 
 "I'll see you tomorrow then Dr West." Voss gave West a dazzling smile. West nodded and turned away, heading out of the tent and missing the dark look Fraiser gave Voss. Voss smiled sweetly back and the two locked gaze for a long moment before Fraiser turned away and hurried after West.
 
 Outside the sun was setting, bathing the camp of the alpha site in a red glow. It had the making of a beautiful evening; warm, dry and peaceful. Peaceful, that is, apart from the shouts and crashing emanating from the far end of the camp where a few dozen of the inhabitants had formed a rough circle and were shouting at the pair fighting at its centre. More than three quarters of the circle were Jaffa, tall and heavily built. The rest were human, blond with blue eyes and Germanic features. In the centre, one of the combatants was a tall Jaffa, heavily muscled and even more heavily scared. He currently was standing behind his opponent with his arms wrapped around the much smaller man with blond hair and piercing blue eyes who was wriggling in his grasp, trying to break the hold. The Jaffa in the crowd jeered, chanting "Ta'voc! Ta'voc!" as he crushed the figure. Meanwhile, the Germans were hurling abuse at Ta'voc and calling support for Spiegel, their fighter.
 
-Ta'voc grinned savagely in triumph as he felt his victim's struggles slowing. "You have insulted my people too many times, little man" he growled into Spiegel's ear. "I think it's time to shut you up permanently." Spiegel didn't respond but suddenly went limp, causing Ta'voc's grip to slacken slightly. Quickly driving his head back into Ta'voc's face there was the sickening sound of breaking cartilage as he flattened Ta'voc's nose. A twist, a stamp on the instep and he was free – quickly stepping away and circling behind the disorientated Jaffa.
+Ta'voc smiled savagely in triumph as he felt his victim's struggles slowing. "You have insulted my people too many times, little man" he growled into Spiegel's ear. "I think it's time to shut you up permanently." Spiegel didn't respond but suddenly went limp, causing Ta'voc's grip to slacken slightly. Quickly driving his head back into Ta'voc's face there was the sickening sound of breaking cartilage as he flattened Ta'voc's nose. A twist, a stamp on the instep and he was free – quickly stepping away and circling behind the disorientated Jaffa.
 
 Ta'voc roared and shook his head to clear it as Spiegel leapt forward and punched him several times rapidly in the kidneys. Ta'voc span round, throwing a wild punch and Spiegel danced back out of reach.
 
@@ -50,13 +50,13 @@ Ta'voc roared and shook his head to clear it as Spiegel leapt forward and punche
 
 Spiegel quickly stepped in at Ta'voc, whipping the staff around in an arc. Ta'voc ducked the initial strike, but was caught on the back of the legs by the return blow. He tumbled to the ground and quickly rolled out of the way as Spiegel brought the point down where his midsection had been moments before. Leaping to his feet, Ta'voc roared his anger and charged at Spiegel, reaching for him with his long arms. Spiegel brought his staff around, catching Ta'voc in the head but the Jaffa's momentum carried him through and both fighters went down in a heap, Ta'voc underneath with his hands around Spiegel's throat and Spiegel on top punching Ta'voc's at face with all his strength.
 
-Suddenly, the screeching sounds of electrical discharge cut through the roar of the crowds and the circle was lit up blue by a pair of Zat blasts. Ta'voc and Spiegel were struck in the chest and hurled apart by the shots, lying on the ground twitching as the electricity caused their muscles to spasm. West walked from the edge of the crowd to the centre of the circle, glaring at those assembled.
+Suddenly, the screeching sounds of electrical discharge cut through the roar of the crowds and the circle was lit up blue by a pair of Zat blasts. Ta'voc and Spiegel were struck by the shots and hurled apart, lying on the ground twitching as the electricity caused their muscles to spasm. West walked from the edge of the crowd to the centre of the circle, glaring at those assembled.
 
 "Enough. I've had enough."
 
 The Jaffa quietened down but one of the Germans shouted out. "You don't know what-"
 
-He didn't get any further. West span round and shot him, the blue bolt catching him in the throat. He dropped, muscles twitching.
+He didn't get any further. West turned and shot him, the blue bolt catching him in the throat. He dropped, muscles twitching.
 
 "I don't care what happened here. It will not happen again." West didn't even bother to raise his voice. The assembled crowd was now totally silent. "Take them and go back to your enclaves. If you can't be civil, at least be apart." A tall Jaffa with a silver hawk embossed on his forehead stepped over to West. They locked gazes for a moment before the Jaffa inclined his head in a polite bow. He glanced around the circle and gestured at the downed Ta'voc. "Jaffa! Kree!" The Jaffa moved in and picked up their comrade and carried him away. The Germans moved over to their fellows, glaring daggers at West. He turned his back and walked over to Fraiser at the edge of the clearing.
 
@@ -72,8 +72,7 @@ He didn't get any further. West span round and shot him, the blue bolt catching 
 
 Together they walked towards the great fire pit at the centre of the encampment. West looked at the setting sun. "You know, this place was much calmer last time I was living here. Before we introduced a second group of homeless refugees. If we're going to do this kind of thing a lot we're going to need a lot more sites than this one."
 
-At the fire pit, there was a commotion. A great beast, something like the boars found on Earth but much larger, was being staked out and skinned by a crowd of Jaffa. A pair of marines was watching, looking faintly unwell. At the centre of the crowd stood Amo'c, holding a swathe of the creature's fur as someone moved underneath cutting it away from the flesh. Nearby stood Adolf Spengler, looking pleased with himself.
-Amo'c hailed the approaching doctors. "West! Doctor Fraiser! We have been successful in out hunt!"
+At the fire pit, there was a commotion. A great beast, something like the boars found on Earth but much larger, was being staked out and skinned by a crowd of Jaffa. A pair of marines was watching, looking faintly unwell. At the centre of the crowd stood Amo'c, holding a swathe of the creature's fur as someone moved underneath cutting it away from the flesh. Nearby stood Adolf Spengler, looking pleased with himself. Amo'c hailed the approaching doctors. "West! Doctor Fraiser! We have been successful in out hunt!"
 
 West and Fraiser exchanged glances. West nodded at the moving shape. "I have a horrible feeling that I know who that is…"
 
@@ -127,15 +126,15 @@ Fraiser smirked. "I'm fairly sure you're not supposed to say things like that Ja
 
 "Brickman likes me because I am a good shot with a rifle and I have a better kill record than Major Baracus on his own team. I understand there is some kind of rivalry back from their time together on SG-14."
 
-Spengler walked back over to Adolf. West and Fraiser moved over to the fireside, sitting down together on a log.
+Spengler walked back over to Adolf and West and Fraiser moved over to the fireside, sitting down together on a log.
 
 "Didn't Brickman invite you to head out with the new SG-14 for a … what was it?"
 
-"A boy's night out in the forest. Yes he did. A ghillie suite, a silenced mp5 and a FRED with a generator, a barrel of fuel and a crate of booze. We roll out, massacre a load of wildlife and cook it over a fire created by digging a big hole in the ground, chucking in the barrel of fuel and shooting it until it explodes. And we drink the booze."
+"A boy's night out in the forest. Yes he did. A ghillie suite, a silenced mp5, a FRED with a generator, a barrel of fuel and a crate of booze. We roll out, massacre a load of wildlife and cook it over a fire created by digging a big hole in the ground, chucking in the barrel of fuel and shooting it until it explodes. And we drink the booze."
 
 Friaser grimaced. "And when is this wonderful event?"
 
-"Later tonight. Major Griff will be in charge whilst he's gone. I had to decline due to prior commitments."
+"Later tonight. Major Baracus was supposed to be in charge whilst he's gone so I guess that particular joy falls to me. Fortunately, I've already had to decline due to prior commitments."
 
 Fraiser raised an eyebrow. "Commitments?"
 
@@ -143,4 +142,4 @@ West put his arm around Fraiser who laid her head on his shoulder. "Well, what w
 
 Fraiser looked up at the setting sun and smiled. "You gave up a night with the boys to see me?"
 
-"I gave up a night's heavy drinking with Colonel Brickman." West shivered. "Even if I took Amo'c symbiote along, I don't think I could survive that."
+"I gave up a night's heavy drinking with Colonel Brickman." West shivered. "Even if I took Amo'c's symbiote along, I don't think I could survive that."

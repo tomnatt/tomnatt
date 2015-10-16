@@ -81,6 +81,6 @@ Amo'c raised an eyebrow. "But you spend much time together. It seems most ineffi
 
 Amo'c turned back to face the lake. "I see. You are _kalah-tah_."
 
-"What does that..." Fraiser began, but West interrupted her "No, that is not the case." Fraiser turned a questioning look on West, who winced. "He's just exercising that jaffa wit." He turned back to Amo'c. "Please stop trying to be helpful."
+"What does that..." Fraiser began, but West interrupted her "No, that is not the case." Fraiser turned a questioning look on West, who winced. "He's just exercising that Jaffa wit." He turned back to Amo'c. "Please stop trying to be helpful."
 
 Amo'c closed his eyes and leaned back in the sun, a ghost of a smile playing over his lips. "Indeed."

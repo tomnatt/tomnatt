@@ -11,6 +11,7 @@ keywords: homepage
 * [Github](https://github.com/tomnatt)
 * [LinkedIn](http://uk.linkedin.com/pub/tom-natt/6/839/20b)
 * [Flickr](http://www.flickr.com/photos/tomnatt/)
+* [Instagram](https://www.instagram.com/impenetrablemyst/)
 * [Tumblr](http://tomnatt.tumblr.com/)
 * [Delicious](http://delicious.com/tomnatt)
 

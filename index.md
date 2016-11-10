@@ -7,7 +7,7 @@ keywords: homepage
 
 # Me online
 
-* [@tomnatt](https:www.twitter.com/tomnatt)
+* [@tomnatt](https://www.twitter.com/tomnatt)
 * [Github](https://github.com/tomnatt)
 * [LinkedIn](http://uk.linkedin.com/pub/tom-natt/6/839/20b)
 * [Flickr](http://www.flickr.com/photos/tomnatt/)

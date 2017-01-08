@@ -1,0 +1,22 @@
+---
+layout: layout
+title: A Dreamless Sleep
+description: Introduction of Executor Aldric Trask in the Torm game
+keywords: short story
+---
+
+### A Dreamless Sleep
+
+In the almost total darkness of the dead of night, with only the cold, watery light of the stars piercing the blackness, Chancellor Tothenbury of the Tormon Rail Group lay still and quiet. To the casual observer he seemed to be in a deep, dreamless sleep - perhaps exhausted by the day's business. Beside him, a beautiful lady lay, shifting occasionally as she dreamed of the fine future he had promised her. Not his wife; no, she slept back at the estate outside the great city of Torm, but his mistress - latest in a line of pretty, young things plucked from the fringes of court for the enjoyment of a man with too high opinion of his own worth.
+
+Tothenbury was known as a difficult man in business. Hard to read, harder to deal with. Not so much for his acumen, although he was far from a stupid man, more for his stubbornness which led to unpredictability. There were times common sense said he should close, but his own pride would not let him do so if the buyer was, in his belief, offering any kind of insult to the Rail Group. This week had seen a series of such confrontations with a man who claimed to represent the interests of the Traders' Union. Polite, and with with exquisite manners he had offered an extremely lucrative deal - the Union would take on the responsibility of loading and security on this stretch of the railway, saving the Rail Group a fortune and in return, the Rail Group would release the family from the majority of the levies imposed on hauling goods. Every one of Tothenbury's advisors, from his lowliest secretary to his second, had pushed him to accept the offer but he had held back. For him it wasn't a question of money, but sovereignty and by asking to take it away, to buy it, the Traders' Union had not only put forward an unacceptable deal but an offensive one.
+
+Over the last few months, there had been several clashes between Tothenbury and different representatives of the Union regarding this matter. This man, quiet and intense, was the simply latest and he too would be sent away. It was obvious to his second that the chancellor took a great delight in frustrating the advances of the Traders' Union - so much so that he was blinded to the increasing costs of the very same security and loading as robbery and accidents were on the increase. It was surprising to his senior staff that the Trade Union had failed to take notice that Tothenbury had no intention of ever giving way. Tothenbury would be a thorn in their side forever; blocking deals and preventing their advancement.
+
+Beside the bed, shrouded in darkness, Executor Aldric Trask stood and considered the couple, idly twirling a dagger in his long, delicate fingers. The blade had been darkened during forging so it reflected no starlight before being honed to a razor sharpness. The slightest pressure against skin would slice through, with little to no resistance. Several times during the week of impossible negotiations with Tothenbury he had wondered if he would need to use it, had considered using the carefully orchestrated increase in gang activity on the railroad to disguise the removal of this man. It was clear to Trask that Tothenbury was the only thing between an accommodation between the Traders' Union and the Tormon Rail Group and that if something were to happen to Tothenbury, his replacement would not merely be amenable to a deal, but eager.
+
+Trask tensed as the woman shifted in her bed again, turning her face to him, her beautiful face pale in the starlight. However her eyes remained closed and her breathing calmed as she snuggled against Tothenbury, who remained quiet and oddly motionless.
+
+But then Chancellor Tothenbury had been dead for some time.
+
+In the darkness, Trask sheathed his dagger and silently slipped out the open window. He had remained long enough to see his poison, dribbled on Tothenbury's lips, quietly stop the man's heart. In the morning it would look like he had passed away in his sleep or perhaps an opportunistic underling would seize the moment and accuse the mistress. Either way, Trask was glad he hadn’t had to kill her. An extra body would surely lead to an investigation - especially if blood was spilled - and that would complicate his negotiations just when his job was just getting interesting.

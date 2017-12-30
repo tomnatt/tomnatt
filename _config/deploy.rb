@@ -12,11 +12,11 @@ set :branch, 'master'
 set :shared_paths, ['audio']
 
 task :setup do
-  queue 'echo "-----> Create shared paths"'
-  shared_dirs = shared_paths.map do |file|
+  command 'echo "-----> Create shared paths"'
+  shared_directories = fetch(:shared_dirs, []).map do |file|
     # this is a path if no extension
     # otherwise, we need to lose the filename
-    path = "#{deploy_to}/#{shared_path}/#{file}"
+    path = "#{fetch(:current_path)}/#{file}"
     if File.extname(path).empty?
       path
     else
@@ -24,14 +24,13 @@ task :setup do
     end
   end.uniq
 
-  shared_dirs.map do |dir|
-    queue echo_cmd "mkdir -p #{dir}"
-    queue echo_cmd "chmod g+rx,u+rwx #{dir}"
+  shared_directories.map do |dir|
+    command echo_cmd "mkdir -p #{dir}"
+    command echo_cmd "chmod g+rx,u+rwx #{dir}"
   end
 end
 
-
-desc "Deploys the current version to the server."
+desc 'Deploys the current version to the server.'
 task :deploy do
   # sync the audio to the server
   # invoke :audio
@@ -48,15 +47,15 @@ task :deploy do
   invoke :jekyll
 end
 
-desc "Syncs the audio with the server"
+desc 'Syncs the audio with the server'
 task :audio do
-  path = "#{deploy_to}/#{shared_path}"
+  path = "#{fetch(:deploy_to)}/#{fetch(:shared_path)}"
 
-  system "rsync -az -e ssh #{audio_source}/audio/ #{user}@#{domain}:#{path}/audio/"
+  system "rsync -az -e ssh #{fetch(:audio_source)}/audio/ #{fetch(:user)}@#{fetch(:domain)}:#{path}/audio/"
 end
 
-desc "Rebuild site"
+desc 'Rebuild site'
 task :jekyll do
-  queue "cd #{deploy_to}/current"
-  queue 'rake'
+  command "cd #{fetch(:deploy_to)}/current"
+  command 'rake'
 end

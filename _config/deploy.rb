@@ -49,7 +49,7 @@ end
 
 desc 'Syncs the audio with the server'
 task :audio do
-  path = "#{fetch(:deploy_to)}"
+  path = "#{fetch(:deploy_to)}/#{fetch(:shared_path)}"
 
   system "rsync -az -e ssh #{fetch(:audio_source)}/audio/ #{fetch(:user)}@#{fetch(:domain)}:#{path}/audio/"
 end

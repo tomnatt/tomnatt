@@ -13,11 +13,6 @@ keywords: homepage
 * [Flickr](https://www.flickr.com/photos/tomnatt/)
 * [Instagram](https://www.instagram.com/impenetrablemyst/)
 
-Probably dead:
-
-* [Tumblr](http://tomnatt.tumblr.com/)
-* [Delicious](http://delicious.com/tomnatt)
-
 ## Stuff I'm writing
 
 * [My blog](https://tomnatt.blogspot.com) - computers, video games, other ramblings

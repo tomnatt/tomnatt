@@ -9,16 +9,19 @@ keywords: homepage
 
 * [@tomnatt](https://www.twitter.com/tomnatt)
 * [Github](https://github.com/tomnatt)
-* [LinkedIn](http://uk.linkedin.com/pub/tom-natt/6/839/20b)
-* [Flickr](http://www.flickr.com/photos/tomnatt/)
+* [LinkedIn](https://www.linkedin.com/in/tom-natt-20b8396/)
+* [Flickr](https://www.flickr.com/photos/tomnatt/)
 * [Instagram](https://www.instagram.com/impenetrablemyst/)
+
+Probably dead:
+
 * [Tumblr](http://tomnatt.tumblr.com/)
 * [Delicious](http://delicious.com/tomnatt)
 
 ## Stuff I'm writing
 
-* [My blog](http://tomnatt.blogspot.com) - computers, video games, other ramblings
-* [Notes from a Gaming Table](http://notesfromagamingtable.blogspot.co.uk/) - tabletop roleplaying and board games
+* [My blog](https://tomnatt.blogspot.com) - computers, video games, other ramblings
+* [Notes from a Gaming Table](https://notesfromagamingtable.blogspot.co.uk/) - tabletop roleplaying and board games
 
 ## Stuff I wrote
 
@@ -29,5 +32,5 @@ keywords: homepage
 * [The Launching of the <i>Distant Voyager</i>](/rpg/boatlaunch) - short story from our Stargate campaign
 * [Medicine at the Alpha Site](/rpg/medicine) - another short story from the Stargate campaign
 * [Emily and the Knights](/rpg/emily) - introduction of a D&D character
-* [The Little Book of Grudges](http://littlebookofgrudges.blogspot.co.uk/) - a series of Warhammer games written into a continuous narrative
-* [The Wheel of Kirsty](http://www.thefreekhouse.com/rpg/wheelofkirsty/) - D&D campaign write-up
+* [The Little Book of Grudges](https://littlebookofgrudges.blogspot.co.uk/) - a series of Warhammer games written into a continuous narrative
+* [The Wheel of Kirsty](https://www.thefreekhouse.com/rpg/wheelofkirsty/) - D&D campaign write-up

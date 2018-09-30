@@ -15,7 +15,8 @@ keywords: homepage
 
 ## Stuff I'm writing
 
-* [My blog](https://tomnatt.blogspot.com) - computers, video games, other ramblings
+* [On leadership](https://tomnatt.blogspot.com/search/label/essay) - select musings from my blog about being in a position of leadership
+* [All of my blog](https://tomnatt.blogspot.com) - computers, video games, other ramblings
 * [Notes from a Gaming Table](https://notesfromagamingtable.blogspot.co.uk/) - tabletop roleplaying and board games
 
 ## Stuff I wrote

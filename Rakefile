@@ -5,7 +5,7 @@ task default: [:clean] do
 end
 
 task :serve do
-  Jekyll::Commands::Serve.process({ config: '_config/jekyll_config.yml', livereload: true })
+  Jekyll::Commands::Serve.process({ config: '_config/jekyll_config.yml' })
 end
 
 task :clean do

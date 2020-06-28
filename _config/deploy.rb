@@ -57,5 +57,5 @@ end
 desc 'Rebuild site'
 task :jekyll do
   command "cd #{fetch(:deploy_to)}/current"
-  command 'rake'
+  command 'bundle exec rake'
 end

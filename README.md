@@ -3,4 +3,8 @@ tomnatt
 
 Code for tomnatt.com
 
-Commands are in the [jekyll-foundation project](https://github.com/tomnatt/jekyll-foundation).
+Build:
+```bundle exec rake```
+
+Serve:
+```bundle exec rake serve```

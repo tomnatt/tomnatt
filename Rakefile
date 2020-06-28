@@ -9,6 +9,5 @@ task :serve do
 end
 
 task :clean do
-  puts 'Cleaning up _site...'.bold
   Jekyll::Commands::Clean.process({ config: '_config/jekyll_config.yml' })
 end

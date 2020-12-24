@@ -7,7 +7,7 @@ set :deploy_to, ENV['TOMNATT_HOSTING_DIR']
 set :audio_source, ENV['TOMNATT_SYNC_HOME']
 set :domain, 'tomnatt.com'
 set :repository, 'git@github.com:tomnatt/tomnatt.git'
-set :branch, 'master'
+set :branch, 'main'
 
 set :shared_paths, ['audio']
 

@@ -13,7 +13,7 @@ keywords: homepage
 * [Flickr](https://www.flickr.com/photos/tomnatt/)
 * [Instagram](https://www.instagram.com/impenetrablemyst/)
 
-## Stuff I'm writing
+## Stuff I'm writing with a pen
 
 * [On leadership](https://tomnatt.blogspot.com/search/label/essay) - select musings from my blog about being in a position of leadership
 * [All of my blog](https://tomnatt.blogspot.com) - computers, video games, other ramblings

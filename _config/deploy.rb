@@ -5,7 +5,7 @@ require 'mina/git'
 set :user, ENV['HOSTING_USER']
 set :deploy_to, ENV['TOMNATT_HOSTING_DIR']
 set :audio_source, ENV['TOMNATT_SYNC_HOME']
-set :domain, 'tomnatt.com'
+set :domain, ENV['DEPLOY_TARGET']
 set :repository, 'git@github.com:tomnatt/tomnatt.git'
 set :branch, 'main'
 

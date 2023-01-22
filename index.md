@@ -12,8 +12,6 @@ keywords: homepage
 * [LinkedIn](https://www.linkedin.com/in/tom-natt-20b8396/)
 * [Flickr](https://www.flickr.com/photos/tomnatt/)
 * [Instagram](https://www.instagram.com/impenetrablemyst/)
-* [Instagram](https://www.instagram.com/impenetrablemyst/)
-* [Instagram](https://www.instagram.com/impenetrablemyst/)
 
 ## Stuff I'm writing
 

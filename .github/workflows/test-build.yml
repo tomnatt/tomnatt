@@ -17,6 +17,10 @@ jobs:
 
     - name: Check ENV VAR
       run: ruby test.rb
+      env:
+        HOSTING_USER: HU
+        TOMNATT_HOSTING_DIR: THD
+        DEPLOY_TARGET: DT
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1

@@ -1,0 +1,28 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - 'main'
+      - 'actions-deploy'
+
+jobs:
+  test:
+    runs-on: ubuntu-22.04
+
+    steps:
+
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+
+    - name: Run deploy
+      run: bundle exec mina -f _config/deploy.rb deploy
+      env:
+        HOSTING_USER: ${{ secrets.HOSTING_USER }}
+        TOMNATT_HOSTING_DIR: ${{ secrets.TOMNATT_HOSTING_DIR }}
+        DEPLOY_TARGET: ${{ secrets.DEPLOY_TARGET }}

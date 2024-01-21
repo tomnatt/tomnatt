@@ -4,3 +4,6 @@
 [submodule "rpg/l5r/dice"]
 	path = rpg/l5r/dice
 	url = git@github.com:tomnatt/L5R-dice-roller.git
+[submodule "sausage"]
+	path = sausage
+	url = git@github.com:tomnatt/sausage.git

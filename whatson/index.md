@@ -9,6 +9,7 @@ keywords: Bath, events
 
 Finding events and happenings in Bath.
 
+* [Bath Box Office](https://bathboxoffice.org.uk/whats-on)
 * [VisitBath events calendar](https://visitbath.co.uk/whats-on/events-calendar)
 * [Everyman Showings](https://www.everymancinema.com/venues-list/g01vt-everyman-bath/)
 * [Everyman Throwback](https://www.everymancinema.com/events/3243-throwback-season/)

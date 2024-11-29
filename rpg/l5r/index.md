@@ -2,7 +2,7 @@
 layout: layout
 title: Legend of the Five Rings
 description: Resources for use with L5R
-keywords: l5r legend five rings
+keywords: l5r, legend five rings
 ---
 
 ### Legend of the Five Rings resources

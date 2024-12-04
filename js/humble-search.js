@@ -1,4 +1,4 @@
-var games_urls = ["https://raw.githubusercontent.com/tomnatt/humble-choice/refs/heads/main/output/json/humble-choice-2024.json"];
+// var url = "https://raw.githubusercontent.com/tomnatt/humble-choice/refs/heads/main/output/json/humble-choice-all.json";
 var url = "https://raw.githubusercontent.com/tomnatt/humble-choice/refs/heads/main/output/json/humble-choice-2024.json";
 
 $(function() {
@@ -6,25 +6,24 @@ $(function() {
   // Remove dummy line
   $("#beforejs").remove();
 
-  // $.when(
+  // Get the games and populate the table
+  $.getJSON(url, function(games) {
+    $.each(games, function(i, game) {
 
-  //   // Get the games and populate the table
-  //   $.each(games_urls, function(i, url) {
-      $.getJSON(url, function(games) {
-        $.each(games, function(i, game) {
+      gameName = '<td class="steamname">' + game.name + "</td>";
+      gameBundle = '<td class="bundle">' + game.month + " " + game.year + "</td>";
+      gameId = '<td class="steamid">' + game.steam_id + "</td>";
 
-          gameName = "<td>" + game.name + "</td>";
-          gameBundle = "<td>" + game.month + " " + game.year + "</td>";
-          gameId = "<td>" + game.steam_id + "</td>";
+      $("#humble-list tbody").append("<tr>" + gameName + gameBundle + gameId + "</tr>");
 
-          $("#humble-list tbody").append("<tr>" + gameName + gameBundle + gameId + "</tr>");
+    })
+  })
 
-        })
-      })
-    // })
-
+  // When loaded, enable search
   .done(function() {
-    console.log("after");
+    // Add the search box
+    // $("#humble-list").before('<input type="text" id="search" />');
+
     $("#humble-list").searchable({
       searchField : "#search",
       // searchType  : "fuzzy",
@@ -32,23 +31,4 @@ $(function() {
     });
   })
 
-  // ).done(function() {
-  //   console.log("Then go!");
-  //   $("#humble-list").searchable({
-  //     searchField : "#search",
-  //     searchType  : "fuzzy",
-  //     clearOnLoad : true
-  //   });
-  // });
-
-  // setTimeout(function() {
-
-    // console.log("Timeout go!");
-    // $("#humble-list").searchable({
-    //   searchField : "#search",
-    //   searchType  : "fuzzy",
-    //   clearOnLoad : true
-    // });
-
-  // }, 5000);
 });

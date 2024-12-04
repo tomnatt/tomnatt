@@ -18,7 +18,7 @@ body {
 
 .content {
   margin: 10px auto;
-  width: 50%;
+  width: 65%;
 }
 
 h1, h2 {
@@ -68,5 +68,20 @@ ul {
         border: #9a3521 1px solid;
       }
     }
+  }
+}
+
+table#humble-list {
+  .steamname {
+    width: 65%;
+  }
+  .bundle {
+    width: 20%;
+    text-align: center;
+  }
+  .steamid {
+    width: 15%;
+    color: #808080;
+    text-align: center;
   }
 }

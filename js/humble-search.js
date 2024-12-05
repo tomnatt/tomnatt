@@ -22,7 +22,7 @@ $(function() {
   // When loaded, enable search
   .done(function() {
     // Add the search box
-    // $("#humble-list").before('<input type="text" id="search" />');
+    $("#humble-list").before('<input type="search" id="search" placeholder="Filter..." />');
 
     $("#humble-list").searchable({
       searchField : "#search",

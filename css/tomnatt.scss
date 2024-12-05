@@ -75,11 +75,25 @@ ul {
 .humble {
   margin-top: 4rem;
 
+  input#search {
+    width: 80%;
+    margin-bottom: 1rem;
+    margin-left: 7%;
+    border: solid 2px $red;
+    padding: 20px;
+    font-size: larger;
+  }
+
   table#humble-list {
+    width: 100%;
     border-collapse: collapse;
 
     thead tr {
       border-bottom: solid 2px $red;
+
+      th {
+        padding: 6px 0;
+      }
     }
 
     .steamname {
@@ -96,13 +110,16 @@ ul {
       text-align: center;
     }
 
-    // Stripes
     tbody tr {
       &:nth-child(even) {
         background-color: $lightgrey;
       }
       &:hover {
         background-color: $cream;
+      }
+
+      td {
+        padding: 6px 0;
       }
     }
 

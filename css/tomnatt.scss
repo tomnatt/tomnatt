@@ -97,8 +97,14 @@ ul {
     }
 
     // Stripes
-    tr:nth-child(even) {
-      background-color: $lightgrey;
+    tbody tr {
+      &:nth-child(even) {
+        background-color: $lightgrey;
+      }
+      &:hover {
+        background-color: $cream;
+      }
     }
+
   }
 }

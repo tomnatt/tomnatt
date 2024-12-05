@@ -18,5 +18,6 @@ keywords: homepage
 * [On leadership](https://tomnatt.blogspot.com/search/label/essay) - select musings from my blog about being in a position of leadership
 * [All of my blog](https://tomnatt.blogspot.com) - computers, video games, other ramblings
 * [What's on](/whatson/) - things happening in Bath
+* [Humble search](/humble/) - all games from Humble Choice in a searchable table
 * [Stuff I wrote](/wrote/) - writing from years ago
 

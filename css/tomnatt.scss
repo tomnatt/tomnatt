@@ -9,8 +9,15 @@
 @import url(https://fonts.googleapis.com/css?family=Oldenburg);
 @import url(https://fonts.googleapis.com/css?family=Ribeye+Marrow);
 
+$black: black;
+$lightgrey: #f2f2f2;
+$grey: #808080;
+$darkgrey: #383838;
+$red: #9a3521;
+$cream: #ffefd2;
+
 body {
-  color: #383838;
+  color: $darkgrey;
   font-family: ‘Arial Black’, Gadget, sans-serif;
   font-size: 20px;
   background: url("/images/backgrounds/natural_paper/natural_paper.png") repeat scroll 0 0 #C2C2A3;
@@ -22,19 +29,15 @@ body {
 }
 
 h1, h2 {
-  color: black;
+  color: $black;
   font-family: 'Ribeye Marrow', cursive;
   font-size: 28px;
   width: 300px;
   transform:rotate(-30deg) translate(-65px, -40px);
-  -ms-transform:rotate(-30deg) translate(-65px, -40px);
-  -moz-transform:rotate(-30deg) translate(-65px, -40px);
-  -webkit-transform:rotate(-30deg) translate(-65px, -40px);
-  -o-transform:rotate(-30deg) translate(-65px, -40px);
 }
 
 h3 {
-  color: black;
+  color: $black;
   font-family: 'Ribeye Marrow', cursive;
   font-size: 28px;
 }
@@ -55,17 +58,15 @@ ul {
     a {
       border: transparent 1px solid;
       border-radius: 3px;
-      color: #9a3521;
+      color: $red;
       padding: 0 4px 0 2px;
       text-decoration: none;
       transition-property: background-color, border;
       transition-duration: 0.3s, 0.3s;
-      -webkit-transition-property: background-color, border;
-      -webkit-transition-duration: 0.3s, 0.3s;
 
       &:hover {
-        background-color: #ffefd2;
-        border: #9a3521 1px solid;
+        background-color: $cream;
+        border: $red 1px solid;
       }
     }
   }
@@ -75,6 +76,12 @@ ul {
   margin-top: 4rem;
 
   table#humble-list {
+    border-collapse: collapse;
+
+    thead tr {
+      border-bottom: solid 2px $red;
+    }
+
     .steamname {
       width: 65%;
       text-align: left;
@@ -85,8 +92,13 @@ ul {
     }
     .steamid {
       width: 15%;
-      color: #808080;
+      color: $grey;
       text-align: center;
+    }
+
+    // Stripes
+    tr:nth-child(even) {
+      background-color: $lightgrey;
     }
   }
 }

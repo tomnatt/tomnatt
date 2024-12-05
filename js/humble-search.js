@@ -1,5 +1,5 @@
-// var url = "https://raw.githubusercontent.com/tomnatt/humble-choice/refs/heads/main/output/json/humble-choice-all.json";
-var url = "https://raw.githubusercontent.com/tomnatt/humble-choice/refs/heads/main/output/json/humble-choice-2024.json";
+var url = "https://raw.githubusercontent.com/tomnatt/humble-choice/refs/heads/main/output/json/humble-choice-all.json";
+// var url = "https://raw.githubusercontent.com/tomnatt/humble-choice/refs/heads/main/output/json/humble-choice-2024.json";
 
 $(function() {
 

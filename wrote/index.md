@@ -12,6 +12,7 @@ Many years ago...
 * [Notes from a Gaming Table](https://notesfromagamingtable.blogspot.co.uk/) - tabletop roleplaying and board games
 * [Faelon](https://wiki.bath.ac.uk/display/faelon/) - a D&D setting
 * [L5R toys](/rpg/l5r) - name generator and dice statistic generator for Legend of the Five Rings
+* [The Univerity awakens](/rpg/university) - short story written for the Asteria MUD
 * [A Dreamless Sleep](/rpg/trask) - flavour story for the Torm game
 * [Becoming](/rpg/shell) - short story introducing a D&D character
 * [The Launching of the <i>Distant Voyager</i>](/rpg/boatlaunch) - short story from our Stargate campaign

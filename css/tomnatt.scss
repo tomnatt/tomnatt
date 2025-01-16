@@ -98,14 +98,20 @@ ul {
     }
 
     .steamname {
-      width: 65%;
+      width: 45%;
       text-align: left;
     }
     .bundle {
       width: 20%;
       text-align: center;
     }
+    .tags {
+      width: 20%;
+      text-align: center;
+      color: $grey;
+    }
     .steamid {
+      color: $grey;
       width: 15%;
       text-align: center;
       a {

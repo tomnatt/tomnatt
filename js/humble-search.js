@@ -10,6 +10,7 @@ $(function() {
   $.getJSON(url, function(games) {
     $.each(games, function(i, game) {
 
+      // Only show specific game tags
       var tags = [];
       if (game.tags) {
         if (game.tags.includes("Co-op")) {
@@ -26,10 +27,16 @@ $(function() {
         }
       }
 
+      // If we have a Steam Id link to the store page
+      var steam_id = "";
+      if (game.steam_id) {
+        steam_id = '<a href="https://store.steampowered.com/app/' + game.steam_id + '/">' + game.steam_id + "</a>";
+      }
+
       gameName = '<td class="steamname">' + game.name + "</td>";
       gameBundle = '<td class="bundle">' + game.month + " " + game.year + "</td>";
       gameTags = '<td class="tags">' + tags.join(", ") + "</td>";
-      gameId = '<td class="steamid"><a href="https://store.steampowered.com/app/' + game.steam_id + '/">' + game.steam_id + "</a></td>";
+      gameId = '<td class="steamid">' + steam_id + "</td>";
 
       $("#humble-list tbody").append("<tr>" + gameName + gameBundle + gameTags + gameId + "</tr>");
 

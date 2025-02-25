@@ -13,6 +13,10 @@ Finding events and happenings in Bath.
 
 * [Council meetings](https://democracy.bathnes.gov.uk/mgCalendarMonthView.aspx?GL=1&bcr=1)
 
+## Bath Royal Literary and Scientific Institution
+
+* [What's on](https://www.brlsi.org/whats-on/)
+
 ## Theatre and cinema
 
 * [Everyman Showings](https://www.everymancinema.com/venues-list/g01vt-everyman-bath/)

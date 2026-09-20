@@ -104,6 +104,20 @@ ul {
     .bundle {
       width: 20%;
       text-align: center;
+      a {
+        color: $black;
+        padding: 3px;
+        text-underline-offset: 3px;
+        text-decoration-color: $grey;
+        transition-property: color, border, text-decoration;
+        transition-duration: 0.1s;
+        &:hover {
+          color: $red;
+          text-decoration: none;
+          border: $red 1px solid;
+          border-radius: 3px;
+        }
+      }
     }
     .tags {
       width: 20%;

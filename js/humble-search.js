@@ -27,16 +27,28 @@ $(function() {
         }
       }
 
+      var month_link = "";
+      // link is to Choice page, unless before December 2019 in which case was the older Monthly page
+      if (game.year < 2020) {
+        month_link = '<a href="https://www.humblebundle.com/monthly/p/' + game.month.toLowerCase() + "_" + game.year + '_monthly">'
+                      + game.month + " " + game.year
+                      + "</a>";
+      } else {
+        month_link = '<a href="https://www.humblebundle.com/membership/' + game.month.toLowerCase() + "-" + game.year + '">'
+                      + game.month + " " + game.year
+                      + "</a>";
+      }
+
       // If we have a Steam Id link to the store page
-      var steam_id = "";
+      var steam_link = "";
       if (game.steam_id) {
-        steam_id = '<a href="https://store.steampowered.com/app/' + game.steam_id + '/">' + game.steam_id + "</a>";
+        steam_link = '<a href="https://store.steampowered.com/app/' + game.steam_id + '/">' + game.steam_id + "</a>";
       }
 
       gameName = '<td class="steamname">' + game.name + "</td>";
-      gameBundle = '<td class="bundle">' + game.month + " " + game.year + "</td>";
+      gameBundle = '<td class="bundle">' + month_link + "</td>";
       gameTags = '<td class="tags">' + tags.join(", ") + "</td>";
-      gameId = '<td class="steamid">' + steam_id + "</td>";
+      gameId = '<td class="steamid">' + steam_link + "</td>";
 
       $("#humble-list tbody").append("<tr>" + gameName + gameBundle + gameTags + gameId + "</tr>");
 

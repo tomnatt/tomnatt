@@ -9,7 +9,7 @@ keywords: Bath, events
 
 Finding events and happenings in Bath.
 
-## City centre markets
+## Markets
 
 * [Bath Saturday Antique and Flea Market](https://www.facebook.com/BathAntiqueFlea) - Walcot Street, weekly Saturday mornings, 8am - 5pm
 * [Green Park Saturday Market](https://www.greenparkstation.co.uk/markets-events) - Green Park Station, weekly Saturday mornings, 9am - 3pm

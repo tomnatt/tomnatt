@@ -17,6 +17,7 @@ Finding events and happenings in Bath.
 * [Independent Makers Market](https://www.visitbath.co.uk/whats-on/the-bath-independent-market-p3941343) - 35 Corn Street (nr Mission Theatre), weekly Saturday mornings, 10am-3pm
 * [Vintage and Antiques Market](https://www.greatwestway.co.uk/see-and-do/festivals-and-events/bathva-vintage-and-antiques-market-p1184871) - Green Park Station, last Sunday of every month, 8am-4pm
 * [Bath Artisan & Independent Market](https://www.greatwestway.co.uk/see-and-do/festivals-and-events/bath-artisan-and-independent-market-p3886081) - Queen Square, last Sunday of the month (see site), 10am-4pm
+* [Bath Alternative Market](https://www.facebook.com/events/bath-pavilion/bath-alternative-market/1268309954689941/) - Pavilion, 11am-4pm
 
 ## Bath Royal Literary and Scientific Institution
 
